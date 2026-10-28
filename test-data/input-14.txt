@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # T14: P és S is üres
+TORPEDO,ALL # egyik tár sem tud tüzelni

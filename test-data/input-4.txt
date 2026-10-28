@@ -1,0 +1,4 @@
+GT4500,10,0,10,0 # T4: P és S tölt, mindkettőben bőven van torpedó
+TORPEDO,SINGLE # első tüzelés P-ből
+TORPEDO,SINGLE # második tüzelés S-ből
+TORPEDO,SINGLE # harmadik tüzelés: a váltakozás folytatódik, újra P-ből

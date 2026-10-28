@@ -1,0 +1,3 @@
+SUCCESS # GT4500 inicializálás sikeres
+SUCCESS # a torpedó P-ből távozik
+FAIL # mindkét tár üres, sikertelen

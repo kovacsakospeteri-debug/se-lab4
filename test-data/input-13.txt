@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # T13: P üres, S tölt és működik
+TORPEDO,ALL # mindkét tárat megpróbálja

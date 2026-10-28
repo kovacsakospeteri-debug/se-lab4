@@ -1,0 +1,3 @@
+GT4500,10,0,0,0 # T6: P tölt, S üres
+TORPEDO,SINGLE # első tüzelés P-ből
+TORPEDO,SINGLE # S lenne a soros, de üres, ezért a másik tárnak (P) kell tüzelnie

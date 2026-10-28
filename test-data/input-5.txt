@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # T5: P üres, S tölt
+TORPEDO,SINGLE # a soron következő (P) üres, ezért a másik tárnak kell tüzelnie

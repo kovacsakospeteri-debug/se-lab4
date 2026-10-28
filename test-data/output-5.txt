@@ -1,0 +1,2 @@
+SUCCESS # GT4500 inicializálás sikeres
+SUCCESS # a torpedó S-ből távozik
