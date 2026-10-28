@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 # T15: P-ben 1 torpedó van, S üres
+TORPEDO,SINGLE # P tüzel, utána P üres lesz és a P volt az utolsó
+TORPEDO,SINGLE # S a soros, de üres; P is üres, ezért nincs mit kilőni
