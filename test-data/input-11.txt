@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0 # T11: P mindig hibásodik meg, S tölt és működik
+TORPEDO,ALL # elég, ha legalább egy torpedó elment

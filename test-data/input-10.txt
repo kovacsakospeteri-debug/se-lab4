@@ -1,0 +1,2 @@
+GT4500,10,0,10,0 # T10: P és S tölt, működik
+TORPEDO,ALL # ALL módban mindkét tár tüzel

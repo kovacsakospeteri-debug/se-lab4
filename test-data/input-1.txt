@@ -1,0 +1,2 @@
+GT4500,10,0,10,0 # T1: P és S is tölt (10-10 torpedó), egyik sem hibásodik meg
+TORPEDO,SINGLE # SINGLE módban csak egy tár tüzel

@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0 # T7: P mindig hibásodik meg, S tölt és működik
+TORPEDO,SINGLE # P a soros és hibát jelez, a másik tárat (S) nem próbálja

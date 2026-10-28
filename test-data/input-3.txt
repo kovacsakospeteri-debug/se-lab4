@@ -1,0 +1,3 @@
+GT4500,10,0,10,0 # T3: P és S tölt
+TORPEDO,SINGLE # első tüzelés P-ből
+TORPEDO,SINGLE # második tüzelés: a tárak felváltva tüzelnek, S-ből kell távoznia
